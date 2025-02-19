@@ -1,7 +1,6 @@
 <span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio
 <span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/>
-I'm Muraliarasan , I did my Bachelor's Degree in Computer Science and Engineering at Velammal college 123 of Engineering and Technology Madurai. <br><!--<br>I am curently working as a Software Engineer Trainee @<a href="https://gyansys.com">Gyansys</a><br> -->
-I'am Curently pursunig my master degree in Latvia University of Life Science and Technology<br>
+I'm Muraliarasan , I did my Bachelor's Degree in Computer Science and Engineering at Velammal college  of Engineering and Technology Madurai. <br><!--<br>I am curently working as a Software Engineer Trainee @<a href="https://gyansys.com">Gyansys</a><br> -->I'm currently pursuing my master's degree at Latvia University of Life Sciences and Technology<br>
 <br>My area of interst is Web appplication Pentrasting , Open Source Intelligence.<br>
 I create <a href="https://github.com/cmuraliarasan?tab=repositories"target="_blank"> Projects </a> occasionally, to test my skills and to enhance them.<br>
 Here's my <a href="Muraliarasan_Resume.pdf"target="_blank">Resume</a>, if you wanna Hire me.<br>
